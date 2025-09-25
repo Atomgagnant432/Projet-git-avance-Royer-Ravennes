@@ -1,4 +1,4 @@
-package projetgitavanceroyerravennes
+package Projet_git_avance_Nicolas_Royer
 
 // this function talk about my life
 func maman() string {
@@ -14,3 +14,4 @@ func taunt() string {
 func gf() string {
 	return "Can u buy me a phone please ?? \n"
 }
+
