@@ -1,4 +1,4 @@
-Projet-git-avance-Nicolas-Royer
+Sur dev, modifiez la ligne 1 du README
 le 2 eme tp git avance
 
 
