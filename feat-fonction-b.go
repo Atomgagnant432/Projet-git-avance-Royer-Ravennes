@@ -9,3 +9,8 @@ func maman() string {
 func taunt() string {
 	return "Bla-bla-bla-bla jg diff \n"
 }
+
+// My gf love me
+func gf() string {
+	return "Can u buy me a phone please ?? \n"
+}
