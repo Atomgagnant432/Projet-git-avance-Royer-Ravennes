@@ -1,3 +1,7 @@
+Version : 1.0  
+feature : you can print our jokes if you want to run the program ( i don't even know if he can run himself ) 
+instruction : go run main ( we don't have a main XD ) 
+
 ligne 1
 le 2 eme tp git avance 
 
